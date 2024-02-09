@@ -1,6 +1,6 @@
 # Malware Detection Project
  
-![Malware Detection](malware_detection_logo.png)
+![Malware Detection](https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg)
  
 ## Project Description
  
